@@ -4,13 +4,6 @@
 
 <details style="margin-bottom:20px;color: white;">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <style>code, pre {
-    font-size: 10px;
-    text-align: center;
-}a {
-    color: white;
-}pre {
-    background: #069;}</style>
 <summary style="
     background-color: #3A3C42;
     padding: 10px;
