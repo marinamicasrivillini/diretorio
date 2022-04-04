@@ -17,17 +17,17 @@
     border: 2px solid #3A3C42;
     border-radius: 0 0 4px 4px;
     padding: 15px;">
-    <div style="background-color: #000;
+    <div style="background-color: #FFF;
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="sistema/admin" style="color:#FFF;"><img src="https://s3.sa-east-1.amazonaws.com/imagens.nasajon/logos/sistemas-web/versao-padrao/icone-mais-nome/nova-marca/logo-padrao_admin_icone-nome.svg"></a></div>
-    <div style="background-color: #000;
+    <div style="background-color: #FFF;
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="sistema/avaliacao" style="color:#FFF;"><img src="https://s3.sa-east-1.amazonaws.com/imagens.nasajon/logos/sistemas-web/versao-padrao/icone-mais-nome/nova-marca/logo-padrao_avaliacao-de-desempenho_icone-nome.svg"></a></div>
-    <div style="background-color: #000;
+    <div style="background-color: #FFF;
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="sistema/conta" style="color:#FFF;"><img src="https://s3.sa-east-1.amazonaws.com/imagens.nasajon/logos/sistemas-web/versao-padrao/icone-mais-nome/nova-marca/logo-padrao_conta-nasajon_icone-nome.svg"></a></div>
-    <div style="background-color: #000;
+    <div style="background-color: #FFF;
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="sistema/diretorio" style="color:#FFF;"><img src="https://s3.sa-east-1.amazonaws.com/imagens.nasajon/logos/sistemas-web/versao-padrao/icone-mais-nome/nova-marca/logo-padrao_diretorio_icone-nome.svg"></a></div>
-    <div style="background-color: #000;
+    <div style="background-color: #FFF;
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="sistema/painel" style="color:#FFF;"><img src="https://s3.sa-east-1.amazonaws.com/imagens.nasajon/logos/sistemas-web/versao-padrao/icone-mais-nome/nova-marca/logo-padrao_painel-do-cliente_icone-nome.svg"></a></div>
-    <div style="background-color: #000;
+    <div style="background-color: #FFF;
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="sistema/portal" style="color:#FFF;"><img src="https://s3.sa-east-1.amazonaws.com/imagens.nasajon/logos/sistemas-web/versao-padrao/icone-mais-nome/nova-marca/logo-padrao_portal-do-funcionario_icone-nome.svg"></a></div>
 </div>
 </details>
