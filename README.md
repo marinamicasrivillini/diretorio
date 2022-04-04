@@ -76,7 +76,7 @@
     border-radius: 0 0 4px 4px;
     padding: 15px;">
     <div style="background-color: #000;
-    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://docs.google.com/presentation/d/1brNI1W3F-1OJdPEfQLyd_UHnBnELA1qsIwlQUhppJYg/edit?usp=sharing">OKRs 2022</a></div>
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://docs.google.com/presentation/d/1brNI1W3F-1OJdPEfQLyd_UHnBnELA1qsIwlQUhppJYg/edit?usp=sharing" target="_blank" style="color:#FFF;">OKRs 2022</a></div>
 </div>
 </details>
 
