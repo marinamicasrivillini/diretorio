@@ -20,7 +20,7 @@
     <div style="background-color: #000;
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="sistema/admin.md" style="color:#FFF;"><img src="https://s3.sa-east-1.amazonaws.com/imagens.nasajon/logos/sistemas-web/versao-padrao/icone/nova-marca/logo-padrao_admin_icone.svg"> Admin</a></div>
     <div style="background-color: #000;
-    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="sistema/avalicao.md" style="color:#FFF;"><img src="https://s3.sa-east-1.amazonaws.com/imagens.nasajon/logos/sistemas-web/versao-padrao/icone/nova-marca/logo-padrao_avaliacao-de-desempenho_icone.svg"> Avaliação de Desempenho</a></div>
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="sistema/avaliacao.md" style="color:#FFF;"><img src="https://s3.sa-east-1.amazonaws.com/imagens.nasajon/logos/sistemas-web/versao-padrao/icone/nova-marca/logo-padrao_avaliacao-de-desempenho_icone.svg"> Avaliação de Desempenho</a></div>
 </div>
 </details>
 
