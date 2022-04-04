@@ -1,4 +1,4 @@
-![](../img/logo_diretorio.png "Logo da equipe Diretório")
+![](../../img/logo_diretorio.png "Logo da equipe Diretório")
 # Painel do Cliente
 
 - [Acesso ao sistema em QA](https://licencas.nasajonsistemas.com.br/#!/home)

@@ -1,4 +1,4 @@
-![](../img/logo_diretorio.png "Logo da equipe Diretório")
+![](../../img/logo_diretorio.png "Logo da equipe Diretório")
 # Portal do Funcionário
 
 Intranet Inteligente.
