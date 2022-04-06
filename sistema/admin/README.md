@@ -1,5 +1,5 @@
 ![](../../img/logo_diretorio.png "Logo da equipe Diretório")
-# Admin
+## Admin
 
 Trata-se de um sistema de administração de Ambientes dos Sistemas. E possui duas versões em uso:
 

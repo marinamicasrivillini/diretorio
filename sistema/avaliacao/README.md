@@ -1,5 +1,5 @@
 ![](../../img/logo_diretorio.png "Logo da equipe Diretório")
-# Avaliação de Desempenho
+## Avaliação de Desempenho
 
 Trata-se de um sistema de avaliação 360º.
 

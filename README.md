@@ -10,8 +10,8 @@
     font-weight: bold;
     border-radius: 4px 4px 0 0;
     cursor:pointer;"
-    title="Clique aqui para visualizar conteúdos dos sistemas aos cuidado da equipe Diretorio"><i class="fas fa-window-maximize" style="color: #959da5;margin-right:10px;"></i>
-    Sistemas aos cuidado da equipe Diretorio 
+    title="Clique aqui para visualizar conteúdos dos sistemas aos cuidado da equipe Diretório"><i class="fas fa-window-maximize" style="color: #959da5;margin-right:10px;"></i>
+    Sistemas aos cuidado da equipe Diretório 
 </summary>
 <div style="
     border: 2px solid #3A3C42;
@@ -19,6 +19,8 @@
     padding: 15px;">
     <div style="background-color: #FFF;
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="sistema/admin/" style="color:#FFF;"><img src="https://s3.sa-east-1.amazonaws.com/imagens.nasajon/logos/sistemas-web/versao-padrao/icone-mais-nome/nova-marca/logo-padrao_admin_icone-nome.svg"></a></div>
+    <div style="background-color: #FFF;color:black;
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="sistema/adminSQL/" style="color:#FFF;"><img src="https://s3.sa-east-1.amazonaws.com/imagens.nasajon/logos/sistemas-web/versao-padrao/icone-mais-nome/nova-marca/logo-padrao_admin_icone-nome.svg"></a><br>(versão SQL)</div>
     <div style="background-color: #FFF;
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="sistema/avaliacao/" style="color:#FFF;"><img src="https://s3.sa-east-1.amazonaws.com/imagens.nasajon/logos/sistemas-web/versao-padrao/icone-mais-nome/nova-marca/logo-padrao_avaliacao-de-desempenho_icone-nome.svg"></a></div>
     <div style="background-color: #FFF;
