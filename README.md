@@ -52,7 +52,7 @@
     <div style="background-color: #000;
     border-radius: 4px;padding: 15px;margin-bottom:20px;">Git e GitHub</div>
     <div style="background-color: #000;
-    border-radius: 4px;padding: 15px;margin-bottom:20px;">Pull Request - PR</div>
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="treinamento/PR/" target="_blank" style="color:#FFF;">Pull Request - PR</a></div>
     <div style="background-color: #000;
     border-radius: 4px;padding: 15px;margin-bottom:20px;">MOPE</div>
     <div style="background-color: #000;
