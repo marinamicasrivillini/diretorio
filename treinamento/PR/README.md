@@ -56,7 +56,7 @@ Você iniciou sua tarefa do sistema Painel do Cliente na branch master, e após 
     
     9.2. Preencha o template de markdown visualizado na aba Write. 
     
-    9.3. Depois marque o revisor dessa tarefa, que normalmente é o Keyson Mota.
+    9.3. Depois marque o revisor dessa tarefa, que normalmente é o Tech Lead.
     
     9.4. E por fim clique no botão **Create Pull Request**.
 
@@ -94,7 +94,7 @@ Você terminou de criar sua tarefa na branch master, e agora precisa pegar tudo 
     
     7.2. Preencha o template de markdown visualizado na aba Write. 
     
-    7.3. Depois marque o revisor dessa tarefa, que normalmente é o Keyson Mota.
+    7.3. Depois marque o revisor dessa tarefa, que normalmente é o Tech Lead.
     
     7.4. E por fim clique no botão **Create Pull Request**.
 
