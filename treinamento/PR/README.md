@@ -55,11 +55,23 @@ Você iniciou sua tarefa do sistema Painel do Cliente na branch master, e após 
  
         7.2.1. Nome do Sistema - Tipo da tarefa - número da tarefa - título da tarefa
  
-8. E por fim, realize o push, indo nos "3 pontinhos" de mais ações ao lado do título "CONTROLE DO CÓDIGO-FONTE" e em seguida ir na opção **Efetuar Pull, Enviar por Push** e clicar em **Enviar por Push**. Esta etapa fará com que toda sua tarefa realizada em seu computador seja enviada ao repositório do sistema, neste caso do sistema Painel do Cliente. Porém uma dica é usar o terminal nessa etapa para que uma URL seja criada e você possa dali mesmo acessar o github diretamente com o seu PR para ser finalizado. Dessa forma faça a seguinte etapa:
+8. E por fim, realize o push, indo nos "3 pontinhos" de mais ações ao lado do título "CONTROLE DO CÓDIGO-FONTE" e em seguida ir na opção **Efetuar Pull, Enviar por Push** e clicar em **Enviar por Push**. Esta etapa fará com que toda sua tarefa realizada em seu computador seja enviada ao repositório do sistema, neste caso do sistema Painel do Cliente. Dessa forma faça a seguinte etapa:
  
-    8.1. git push origin 67080-m
+    8.1. Ao clicar em **Enviar por Push** pela rota do *passo 8.*:
+
+    ![Enviar por Push](../../img/PR/enviar-push.png)
  
-    8.2. Acesse a url criada pressionando o CTRL acima dela e clicando em seguida.
+    8.2. Vai aparecer uma janela dizendo que sua ramificação não foi publicada, clique em OK e vá para o repositório do projeto que enviou o push.
+
+    ![Janela dizendo que sua ramificação não foi publicada](../../img/PR/enviar-push_msg.png)
+
+    8.3. No repositório do projeto verá que tem uma mensagem que precisa realizar o PR.
+
+    ![Mensagem que precisa realizar o PR](../../img/PR/PR_sem-push-terminal.png)
+
+    8.4. Ao clicar no botão **Compare & pull request** para realizar o PR, é só preencher o template do PR e marcar o Reviewers. Onde está detalhado esses passos na *etapa 9.*.
+
+    ![Compare & pull request](../../img/PR/criando_PR.png)
  
 9. Preencher o PR no github, siga os seguintes passos:
  
@@ -71,7 +83,7 @@ Você iniciou sua tarefa do sistema Painel do Cliente na branch master, e após 
    
     9.4. E por fim clique no botão **Create Pull Request**.
  
-ATENÇÃO! Não feche essa janela do navegador caso precise replicar esta tarefa que foi realizada a partir da branch master para outra branch, que normalmente replica-se para a branch development.
+ATENÇÃO! Não feche essa janela do navegador caso precise replicar esta tarefa que foi realizada a partir da branch master para outra branch/ramificação, que normalmente replica-se para a branch development.
  
 ---
  
@@ -79,7 +91,14 @@ ATENÇÃO! Não feche essa janela do navegador caso precise replicar esta tarefa
  
 Você terminou de criar sua tarefa na branch master, e agora precisa pegar tudo que foi realizada lá e enviar para a branch development. Para isso bastar seguir as etapas abaixo:
  
-1. Mude de branch indo nos "3 pontinhos" de mais ações ao lado do título "CONTROLE DO CÓDIGO-FONTE" e em seguida ir na opção **Ramificação** e clicar em **Trocar Base para a Ramificação**, uma janela será aberta para você selecionar a branch que deseja ir, selecione a branch development.
+1. Mude de branch indo nos "3 pontinhos" de mais ações ao lado do título "CONTROLE DO CÓDIGO-FONTE" e em seguida ir na opção **Ramificação** e clicar em **Trocar Base para a Ramificação**:
+![Trocar Base para a Ramificação](../../img/PR/trocar-ramificacao.png)
+
+    1.1. Uma janela será aberta para você selecionar a branch que deseja ir, selecione a branch/ramificação development.
+![Selecionar a branch/ramificação](../../img/PR/trocar-ramificacao_selecionar.png)
+
+    1.2. Caso não note mudanças da branch/ramificação na barra de Status do vscode (que é a barra localizada no inferior do vscode), você pode clicar diretamente nele e selecionar a branch desejada.
+![Selecionar branch/ramificação na barra de Status](../../img/PR/trocar-ramificacao_selecionar-barra.png)
  
 2. Ainda na branch development, realize um Pull rebase, indo nos "3 pontinhos" de mais ações ao lado do título "CONTROLE DO CÓDIGO-FONTE" e em seguida ir na opção **Efetuar Pull, Enviar por Push** e clicar em **Efetuar Pull(Trocar Base)**. Ele irá pegar tudo que foi alterado na branch development enquanto estava realizando a sua tarefa.
  
@@ -88,14 +107,15 @@ Você terminou de criar sua tarefa na branch master, e agora precisa pegar tudo 
 4. Na janela que deixou aberto do PR da branch master, vá na aba Commits e no lado direito do seu commit clique no ícone que tem "dois quadrados sobrepostos" com o nome de **Copy the full SHA**, isso irá copiar o hash do commit na área de transferência e retornando ao vscode digite o seguinte comando:
  
     4.1. git cherry-pick -n *[AQUI SERÁ COLADO O HASH DO COMMIT]*
+![Realizar o cherry-pick](../../img/PR/cherry-pick.png)
  
 5. Agora será realizado o commit, e como foi realizado um cherry-pick, os arquivos que foram modificados no momento que a tarefa foi realizada na branch master, eles irão aparecer juntamente com a mesma mensagem que foi criada na branch anterior:
  
     5.1. Painel do Cliente - Dívida Técnica - 67080 - ajustes na tela de Usuários, e depois clique no ícone que se parece com "um check" que se chama **Confirmar** ao lado do título "CONTROLE DO CÓDIGO-FONTE" e esse ícone só aparece ao passar o mouse ao lado desse título.
  
-6. Chegou o momento do push, indo nos "3 pontinhos" de mais ações ao lado do título "CONTROLE DO CÓDIGO-FONTE" e em seguida ir na opção **Efetuar Pull, Enviar por Push** e clicar em **Enviar por Push**. Dessa forma faça a seguinte etapa:
+6. Chegou o momento do push, indo nos "3 pontinhos" de mais ações ao lado do título "CONTROLE DO CÓDIGO-FONTE" pode ser muito demorado como percebido na etapa da branch master, mas isso pode ser encurtado indo pelo terminal do vscode para que uma URL seja criada e você possa dali mesmo acessar o github diretamente com o seu PR para ser finalizado. Dessa forma faça a seguinte etapa:
  
-    6.1. git push origin 67080-d
+    6.1. Vá para o terminal do vscode e digite: git push origin 67080-d
  
     6.2. Acesse a url criada pressionando o CTRL acima dela e clicando em seguida.
  
