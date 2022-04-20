@@ -98,6 +98,7 @@ Você terminou de criar sua tarefa na branch master, e agora precisa pegar tudo 
 ![Selecionar a branch/ramificação](../../img/PR/trocar-ramificacao_selecionar.png)
 
     1.2. Caso não note mudanças da branch/ramificação na barra de Status do vscode (que é a barra localizada no inferior do vscode), você pode clicar diretamente nele e selecionar a branch desejada.
+    
 ![Selecionar branch/ramificação na barra de Status](../../img/PR/trocar-ramificacao_selecionar-barra.png)
  
 2. Ainda na branch development, realize um Pull rebase, indo nos "3 pontinhos" de mais ações ao lado do título "CONTROLE DO CÓDIGO-FONTE" e em seguida ir na opção **Efetuar Pull, Enviar por Push** e clicar em **Efetuar Pull(Trocar Base)**. Ele irá pegar tudo que foi alterado na branch development enquanto estava realizando a sua tarefa.
