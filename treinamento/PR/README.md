@@ -24,6 +24,7 @@ Você iniciou sua tarefa do sistema Painel do Cliente na branch master, e após 
 ![ícone Controle do Código-Fonte](../../img/PR/icone_controle-codigo-fonte.png)
  
 2. Você irá visualizar todos os arquivos alterados, criados ou excluídos neste local, e esses arquivos estarão abaixo das **Alterações**, clique no ícone **Stash all changes** que é um ícone com "sinal de mais numa seta encurvada" e só é visto ao passar o mouse sobre o título Alterações.
+
 ![ícone Stash all changes](../../img/PR/stash-all-changes.png)
  
     2.1. Uma janela será aberta para que nomeie o stash, recomenda-se colocar o nome com o número da tarefa, portanto seria: **67080**.
