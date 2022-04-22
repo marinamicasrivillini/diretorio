@@ -27,10 +27,12 @@ Você iniciou sua tarefa do sistema Painel do Cliente na branch master, e após 
 
 ![ícone Stash all changes](../../img/PR/stash-all-changes.png)
  
-    2.1. Uma janela será aberta para que nomeie o stash, recomenda-se colocar o nome com o número da tarefa, portanto seria: **67080**.
+2.1. Uma janela será aberta para que nomeie o stash, recomenda-se colocar o nome com o número da tarefa, portanto seria: **67080**.
+
 ![Nomeiar o stash](../../img/PR/stash-all-changes_nomear.png)
  
-    2.2. Em seguida dê enter para finalizar a nomeação, neste momento todos seus arquivos desaparecem, pois estão guardados no stash: **67080**.
+
+2.2. Em seguida dê enter para finalizar a nomeação, neste momento todos seus arquivos desaparecem, pois estão guardados no stash: **67080**.
  
 3. Agora, ainda na branch master, realize um Pull rebase, indo nos "3 pontinhos" de mais ações ao lado do título "CONTROLE DO CÓDIGO-FONTE" e em seguida ir na opção **Efetuar Pull, Enviar por Push** e clicar em **Efetuar Pull(Trocar Base)**. Ele irá pegar tudo que foi alterado na branch master enquanto estava realizando a sua tarefa.
 ![Efetuar Pull(Trocar Base)](../../img/PR/pull-rebase.png)
