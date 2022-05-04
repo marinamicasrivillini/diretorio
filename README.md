@@ -82,4 +82,4 @@
 </div>
 </details>
 
-###### André Gomes | Felipe Pacheco | Juliana Loureiro | Keyson Mota | Marina Micas | Pedro Teixeira | Rodrigo Dirk | Samyr Ribeiro | Thiago Marcondes
+###### Felipe Pacheco | Juliana Loureiro | Keyson Mota | Marina Micas | Pedro Teixeira | Rodrigo Dirk | Samyr Ribeiro | Tatiana Morita | Thiago Marcondes
