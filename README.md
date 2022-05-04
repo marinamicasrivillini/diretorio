@@ -42,7 +42,7 @@
     font-weight: bold;
     border-radius: 4px 4px 0 0;
     cursor:pointer;"
-    title="Clique aqui para visualizar conteúdos dos sistemas aos cuidado da equipe Diretorio"><i class="fas fa-book-open" style="color: #959da5;margin-right:10px;"></i>
+    title="Clique aqui para visualizar conteúdos dos treinamentos"><i class="fas fa-book-open" style="color: #959da5;margin-right:10px;"></i>
     Treinamentos
 </summary>
 <div style="
@@ -70,7 +70,7 @@
     font-weight: bold;
     border-radius: 4px 4px 0 0;
     cursor:pointer;"
-    title="Clique aqui para visualizar conteúdos dos sistemas aos cuidado da equipe Diretorio"><i class="fas fa-link" style="color: #959da5;margin-right:10px;"></i>
+    title="Clique aqui para visualizar links úteis"><i class="fas fa-link" style="color: #959da5;margin-right:10px;"></i>
     Links úteis
 </summary>
 <div style="
@@ -79,6 +79,8 @@
     padding: 15px;">
     <div style="background-color: #000;
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://docs.google.com/presentation/d/1brNI1W3F-1OJdPEfQLyd_UHnBnELA1qsIwlQUhppJYg/edit?usp=sharing" target="_blank" style="color:#FFF;">OKRs 2022</a></div>
+    <div style="background-color: #000;
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="vdo/compartilhar_video-com-audio.mp4" style="color:#FFF;">Vídeo explicativo sobre como compartilhar uma tela contendo aúdio</a></div>
 </div>
 </details>
 
