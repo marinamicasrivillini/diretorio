@@ -81,8 +81,6 @@
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://docs.google.com/presentation/d/1brNI1W3F-1OJdPEfQLyd_UHnBnELA1qsIwlQUhppJYg/edit?usp=sharing" target="_blank" style="color:#FFF;">OKRs 2022</a></div>
     <div style="background-color: #000;
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="vdo/compartilhar_video-com-audio.mp4" style="color:#FFF;">Vídeo explicativo sobre como compartilhar uma tela contendo áudio</a></div>
-    <div style="background-color: #000;
-    border-radius: 4px;padding: 15px;margin-bottom:20px;">teste</div>
 </div>
 </details>
 
